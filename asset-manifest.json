@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/video_site/static/css/main.ce2ddb92.css",
+    "main.js": "/video_site/static/js/main.dd59167e.js",
+    "index.html": "/video_site/index.html",
+    "main.ce2ddb92.css.map": "/video_site/static/css/main.ce2ddb92.css.map",
+    "main.dd59167e.js.map": "/video_site/static/js/main.dd59167e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce2ddb92.css",
+    "static/js/main.dd59167e.js"
+  ]
+}
